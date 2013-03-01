@@ -1,0 +1,4 @@
+This software uses the following modules
+ - dpkt
+ - numpy
+ - matplotlib
